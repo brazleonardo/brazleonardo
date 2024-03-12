@@ -1,4 +1,7 @@
-### Olá 👋
+### Olá, eu sou Braz Leonardo 👋 
+
+#### 
+<em>Trabalho na área de desenvolvimento web como front-end desde 2009.</em>
 
 ## Principais tecnológicas
 <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></span>
