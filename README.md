@@ -39,6 +39,7 @@
       <span title="Angula"><img  height="32" src="https://img.shields.io/badge/angular-white?style=for-the-badge&logo=Angular&color=%23e40036" alt="Angular" /></span>
       <span title="TypeScript"><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
       <span title="Material"><img  height="32" src="https://img.shields.io/badge/Material-7c07f2?style=for-the-badge&logo=Angular" alt="Material" /></span>
+      <span title="SCSS"><img  height="32" src="https://img.shields.io/badge/SCSS-f2f2f2?style=for-the-badge&logo=SASS" alt="SCSS" /></span>
     </div>
     <p><b>Link</b></p>
     <a href="https://brazleonardo.github.io/angular-ecommerce" target="_blank">angular-ecommerce</a>
