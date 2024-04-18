@@ -22,7 +22,7 @@
   <li>
     <p><b>Vídeo interativo</b></p>
     <div><em>Site onde é possível cadastrar um vídeo e adicionar alguns tipos de conteúdos, que serão visualizados de acordo com o tempo selecionado. O site foi desenvolvido utilizando o React na versão 18.2.0.</em></div>
-    <p><b>Tecnológicas</b></p>
+    <p><b>Tecnologias</b></p>
     <div>      
       <span title="ReactJS"><img  height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></span>
       <span title="TypeScript"><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
