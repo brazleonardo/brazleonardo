@@ -3,6 +3,8 @@
 #### 
 <em>Trabalho na área de desenvolvimento web como front-end desde 2009.</em>
 
+![](https://komarev.com/ghpvc/?username=brazleonardo&abbreviated=true&style=for-the-badge&color=brightgreen&label=Total+de+visitas)
+
 ## Principais tecnologias
 <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></span>
 <span title="CSS"><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></span>
