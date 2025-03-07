@@ -13,7 +13,9 @@
 <span title="Material UI"><img height="32" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></span>
 <span title="JavaScript"><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></span>
 <span title="TypeScript"><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
-<span title="ReactJS"><img  height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></span>
+<span title="ReactJS"><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></span>
+<span title="NextJS"><img  height="32" src='https://img.shields.io/badge/NextJS-100000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black&color=black' alt='NextJS' /></span>
+<span title="Astro"><img height="32" src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=Astro&logoColor=white&labelColor=291d7e&color=291d7e' alt='Astro' /></span>
 <span title="Redux"><img height="32" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></span>
 <span title="Angula"><img  height="32" src="https://img.shields.io/badge/angular-white?style=for-the-badge&logo=Angular&color=%23e40036" alt="Angular" /></span>
 <span title="Webpack"><img  height="32" src="https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=webpack&color=%232b3a42" alt="Webpack" /></span>
